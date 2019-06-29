@@ -1,0 +1,12 @@
+INFO - in add student
+INFO - input is Student [stuRollNo=0, stuName=Anushs, stuAge=13, bDate=2007-01-01]
+INFO - In getStuRollNo
+INFO - Got Student with rollNo6
+INFO - Completed getStuRollNo
+INFO - inserted successfully and rollNo is 6
+INFO - in add student
+INFO - input is Student [stuRollNo=0, stuName=Gigabyte, stuAge=15, bDate=2002-02-02]
+INFO - In getStuRollNo
+INFO - Got Student with rollNo7
+INFO - Completed getStuRollNo
+INFO - inserted successfully and rollNo is 7
